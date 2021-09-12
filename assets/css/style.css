@@ -87,6 +87,12 @@ button {
 /*******************
 * Layout
 *******************/
+
+.story {
+  background-color: #000000;
+  color: #19FF52;
+}
+
 .section {
   padding-top: 30px;
   padding-bottom: 30px;
