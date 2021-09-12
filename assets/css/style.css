@@ -259,6 +259,10 @@ button {
   background-color: #e6e6e6;
 }
 
+.bg-color--blue {
+  background-color: #0037ff;
+}
+
 /*********************
 * title
 **********************/
