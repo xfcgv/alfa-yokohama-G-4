@@ -121,6 +121,8 @@ button {
   padding-left: 20px;
   padding-right: 20px;
   margin: 0 auto;
+  background-color: #000000;
+  color: #19FF52;
 }
 
 @media screen and (max-width: 1100px) {
