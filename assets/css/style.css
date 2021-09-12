@@ -345,6 +345,10 @@ button {
   font-weight: normal;
 }
 
+.text-green {
+  color: #19FF52;
+}
+
 /*************************
 * Button
 *************************/
