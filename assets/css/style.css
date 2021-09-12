@@ -264,6 +264,7 @@ button {
 **********************/
 .main-title {
   margin: 0;
+  background-color: #000000;
 }
 
 .sub-title {
